@@ -1,6 +1,17 @@
 .gradle
 build/
 
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac OSX
+.DS_Store
+__MACOSX
+
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
